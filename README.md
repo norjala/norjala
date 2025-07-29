@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @norjala
-- 👀 I’m interested in AI and crypto
-- 🌱 I’m currently learning how to code and build AI apps using the latest technologies in the LLM stack
+- 👀 I'm a product person - interested in applied AI and crypto
+- 🌱 I’m hacking at building AI-powered apps
 - 💞️ I’m looking to collaborate on hacking on projects together. I bring 9+ years of product thinking and leadership
 - 📫 How to reach me https://twitter.com/jaronParnala/
 - 😄 Pronouns: he/him
